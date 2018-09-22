@@ -1,0 +1,74 @@
+image{
+  width: 100%;
+}
+.weui-search-bar{
+  padding:5px;
+  }
+.weui-search-bar__cancel-btn{
+  margin-left:5px;
+  color:#1296db;
+  }
+ .flex{
+  width: 680rpx;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 7rpx;
+  margin-bottom: 7rpx;  
+}
+.flex-1,.flex-2,.flex-3,.flex-4{
+  flex-grow: 1;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+  text-align: center;
+  font-size: 14px;
+}
+.weui-cell__bd{
+  font-size: 14px;
+}
+.info1{
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 3px;
+  color: cornflowerblue;
+}
+.info2{
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 6px;
+  color: cornflowerblue;
+}
+.xsgl{
+  width: 710rpx;
+  margin: 0 auto;
+  margin-top: 10rpx;
+  display: flex;
+  height: 410rpx;
+  text-align: center;
+}
+.stu{
+  flex-grow: 1;
+  margin-left: 5rpx;
+  margin-right: 5rpx;
+}
+.zzxx{
+  background-color: darkseagreen;
+  height: 200rpx;
+  line-height: 200rpx;
+  margin-bottom: 10rpx;
+}
+.yspx{
+  background-color: fuchsia;
+  height: 200rpx;
+  line-height: 200rpx;
+}
+.bkzx{
+  flex-grow: 1;
+  background-color: goldenrod;
+  line-height: 410rpx;
+  margin-left: 5rpx;
+  margin-right: 5rpx;
+}
+.weui-footer{
+  margin-top: 8rpx;
+  margin-bottom: 5rpx;
+}
